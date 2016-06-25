@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">TourGuideApp</string>
+  <string name="fragment_title_nearby">Nearby Attractions</string>
+  <string name="fragment_title_local">Local Attractions</string>
+  <string name="fragment_title_cafe">Cafe in Bangalore</string>
+  <string name="fragment_title_tech_park">Tech Parks</string>
+</resources>
